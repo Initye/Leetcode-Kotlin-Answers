@@ -1,4 +1,4 @@
-# **Kotlin LeetCode Solutions ** 🚀
+# **Kotlin LeetCode Solutions** 🚀
 Welcome to the Kotlin LeetCode Solutions repository! 
 This repository contains solutions to various LeetCode problems, written in Kotlin. 
 Whether you're preparing for coding interviews, brushing up on your problem-solving skills, or learning Kotlin, this repository is a valuable resource. (probably, hope so)
