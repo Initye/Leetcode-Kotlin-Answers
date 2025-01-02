@@ -6,14 +6,14 @@ Whether you're preparing for coding interviews, brushing up on your problem-solv
 # **About** 🧐
 LeetCode is a widely-used platform for practicing algorithmic problems. This repository:
 
-Focuses on providing clean, readable, and efficient solutions in Kotlin.
-Includes detailed comments to explain the thought process and algorithms used.
-Covers a wide variety of topics, including arrays, strings, dynamic programming, graphs, and more.
+- Focuses on providing clean, readable, and efficient solutions in Kotlin.
+- Includes detailed comments to explain the thought process and algorithms used.
+- Covers a wide variety of topics, including arrays, strings, dynamic programming, graphs, and more.
 
 # **Features**
-Solutions grouped by difficulty (Easy, Medium, Hard).
-Beginner-friendly comments explaining each step of the code. 
-Regular updates with new solutions.
+- Solutions grouped by difficulty (Easy, Medium, Hard).
+- Beginner-friendly comments explaining each step of the code. 
+- Regular updates with new solutions.
 
 
 
