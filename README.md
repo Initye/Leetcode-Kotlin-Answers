@@ -8,7 +8,6 @@ LeetCode is a widely-used platform for practicing algorithmic problems. This rep
 
 - Focuses on providing clean, readable, and efficient solutions in Kotlin.
 - Includes detailed comments to explain the thought process and algorithms used.
-- Covers a wide variety of topics, including arrays, strings, dynamic programming, graphs, and more.
 
 # **Features**
 - Solutions grouped by difficulty (Easy, Medium, Hard).
