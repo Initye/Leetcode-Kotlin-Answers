@@ -16,4 +16,4 @@ LeetCode is a widely-used platform for practicing algorithmic problems. This rep
 
 
 
-_Professional description, to look professional even when im not_
+_Professional description to look like a professional even though I am not one_
