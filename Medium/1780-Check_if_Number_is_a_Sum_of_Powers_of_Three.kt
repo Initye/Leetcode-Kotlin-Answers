@@ -10,7 +10,7 @@ class Solution {
         }
 
         for(i in 0 until ternary.length) { //Go through our ternary
-           if(ternary[i] > '1') { //If any number is above 1, f.e. 102 then its false, else true
+           if(ternary[i] > '1') { //If any number is above 1, e.g. 102 then its false, else true
                 return false
            } 
         }
