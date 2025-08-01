@@ -18,6 +18,5 @@ LeetCode is a widely-used platform for practicing algorithmic problems. This rep
 - Open the folder corresponding to the difficulty level of the problem you're working on.
 - Use **Ctrl + F** to quickly search for a problem by its number.
 
-
 _Professional description to look like a professional even though I am not one_
 https://leetcode.com/u/Dekroo/
